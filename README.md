@@ -1,5 +1,5 @@
 # PackageDeliveryApp
-Python application that uses addresses and 
+Python application that uses addresses and distances to calculate a solution to the travelling salesman problem for a package delivery company.
 
 Run Instructions:
 
