@@ -14,7 +14,7 @@ Example: [python3 main.py –package_id “5”]
 Example: [python3 main.py –package_zip “84115”]
 •	Command will lookup package information for packages to be delivered to zip code 84115.
 
-See section C. for more details. The command line interface will first display: 
+The command line interface will first display: 
 “Enter a time after 08:00 (in military time, i.e., 0900) to check package status or 'exit()' to exit. Enclose all inputs in double quotes.
 'python3 main.py --time [value]' and the number in '0900' format for value
 'python3 main.py --package_id [value]' and the number (i.e. '1') format for value
